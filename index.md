@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "All About Me"
+title: "I Like Turtles!"
 ---
 
 This is my website
