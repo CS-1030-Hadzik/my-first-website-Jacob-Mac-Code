@@ -5,7 +5,7 @@ title: "I Like Turtles!"
 
 This is my website
 
-![logo](assets/images/logo.png)
+![logo](/assets/images/logo.png)
 
 [Link to another page](./another-page.html).
 
