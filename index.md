@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "I Like Turtles!"
+title: "Home Page"
 ---
 
 This is my website
@@ -15,7 +15,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Introduction:
 
-I am a bitter man, I want the whole world to give me everyting, working for things is hard.... at least I have a wife... 
+    Hello, My name is Jacob McAleese. I have spent the last 11 years of my adult life in the military on active duty. After getting married, having a kid, and hopping to another branch of service I decided it was time to get out. If you would like to know a little more about me click [here](https://cs-1030-hadzik.github.io/my-first-website-Jacob-Mac-Code/about/). Otherwise, enjoy the random things I have added to this home page! 🐢
 
 ## Quotes From Yours Truely
 
