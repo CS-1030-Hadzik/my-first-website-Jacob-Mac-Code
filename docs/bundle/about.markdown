@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+# Family
+![DasWifey](/assets/images/Das%20Wifey.jpg)
+I met my wonderful wife in 2018 while we were both stationed in Guam. She’s incredible and for reasons I still can’t quite understand, she decided to stick around. We were married in May 2019, and a year later, in July 2020, we welcomed our daughter Evelyn. She’s a sensitive soul with a big heart, and watching her grow and discover the world has been one of the greatest joys of my life.
