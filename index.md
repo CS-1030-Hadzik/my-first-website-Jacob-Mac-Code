@@ -7,11 +7,8 @@ This is my website
 
 ![logo](/assets/images/logo.png)
 
-[Link to another page](./another-page.html).
+Put this picture in for the lawls. Enjoy the artwork that was created with AI using my gamer tag. If you make one cooler with my gamer tag please send it to me!
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Introduction
 
