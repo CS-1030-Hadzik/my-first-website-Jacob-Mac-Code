@@ -13,9 +13,11 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Introduction:
+# Introduction
 
-    Hello, My name is Jacob McAleese. I have spent the last 11 years of my adult life in the military on active duty. After getting married, having a kid, and hopping to another branch of service I decided it was time to get out. If you would like to know a little more about me click [here](https://cs-1030-hadzik.github.io/my-first-website-Jacob-Mac-Code/about/). Otherwise, enjoy the random things I have added to this home page! 🐢
+Hello, my name is Jacob McAleese. I have spent the last 11 years of my adult life in the military on active duty. After getting married, having a kid, and hopping to another branch of service, I decided it was time to get out. 
+
+If you would like to know a little more about me, click [here](https://cs-1030-hadzik.github.io/my-first-website-Jacob-Mac-Code/about/). Otherwise, enjoy the random things I have added to this home page! 🐢
 
 ## Quotes From Yours Truely
 
