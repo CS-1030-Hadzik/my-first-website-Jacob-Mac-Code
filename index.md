@@ -17,13 +17,17 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 I am a bitter man, I want the whole world to give me everyting, working for things is hard.... at least I have a wife... 
 
-## Header 2
+## Quotes From Yours Truely
 
 > "I like Turtles"  - Jacob McAleese.... all the time
 >
 > "Living the dream." - Also Jacob McAleese... all the time
+>
+> "The nightmares persist, but so do I!" - Jacob McAleese... Why is he like this?
+>
+> "When death smiles, smile back." - Jacob McAleese (Such an edgy boi)
 
-### Header 3
+### Professor, I honestly have no idea whats going on with the code below. Can explain please? 😘
 
 ```js
 // Javascript code with syntax highlighting.
