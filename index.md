@@ -15,7 +15,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Introduction:
 
-Introduction:
+I am a bitter man, I want the whole world to give me everyting, working for things is hard.... at least I have a wife... 
 
 ## Header 2
 
@@ -40,28 +40,28 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+#### Hobbies
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Rockclimbing.
+*   Snowboarding.
+*   Walkies.
 
-##### Header 5
+##### Favorite Foods
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  Steak.
+2.  Pasta.
+3.  My Wife.
 
-###### Header 6
+###### The Right Knot For Your Chosen Hobby
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Activity      | Knot                       | is cool?                        |
+|:--------------|:---------------------------|:--------------------------------|
+| rock climbing | Figure 8                   | Yes                             |
+| Rappelling    | Himalayan Braid            | Yes, But Terrifying             |
+| Boating       | Bowline                    | Only If You're In The Navy      |
+| Snow Boarding | Why Are You Using A Knot?! | NO!                             |
 
-### There's a horizontal rule below this.
+### Make Sure You Choose Correctly
 
 * * *
 
