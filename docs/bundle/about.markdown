@@ -19,6 +19,7 @@ I met my wonderful wife in 2018 while we were both stationed in Guam. She’s in
   </video>
 </p>
 
+
 In July 2014, I shipped off to Air Force basic training. I had some different plans for my military career at the time, but ultimately I became an aircraft mechanic. I maintained, troubleshot, and repaired the communication and navigation equipment on C-17s.
 
 By May 2015, I arrived at my first duty station at Travis AFB, California. This is where I truly honed my skills and experienced life close to the mountains for the first time. California also introduced me to a passion for rock climbing, snowboarding, and a variety of other outdoor hobbies.
