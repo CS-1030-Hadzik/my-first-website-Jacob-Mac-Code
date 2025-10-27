@@ -13,9 +13,11 @@ I met my wonderful wife in 2018 while we were both stationed in Guam. She’s in
 
 ## Airforce
 
-<video width="50%" controls>
-  <source src="/assets/video/airforce.mp4" type="video/mp4">
-</video>
+<p align="center">
+  <video width="50%" controls>
+    <source src="/assets/video/airforce.mp4" type="video/mp4">
+  </video>
+</p>
 
 In July 2014, I shipped off to Air Force basic training. I had some different plans for my military career at the time, but ultimately I became an aircraft mechanic. I maintained, troubleshot, and repaired the communication and navigation equipment on C-17s.
 
