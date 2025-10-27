@@ -30,3 +30,14 @@ Near the end of 2016, I was assigned to Guam. Guam is a beautiful island, but ma
 During my time in Guam, I had the opportunity to cross-train in other career fields, gaining experience working on C-5 aircraft. I also participated in two weeks of training with Security Forces and two weeks of fieldcraft hostile with the Combat Communications Squadron called Operation Dragon Forge. It was a challenging and rewarding experience.
 
 I served in Guam until the conclusion of my Air Force career on July 11, 2021, and I look back on those years with pride, gratitude, and a sense of accomplishment.
+
+### Army
+
+<p align="center">
+  <video width="50%" controls>
+    <source src="{{ site.baseurl }}/assets/video/Mortards.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+My wife said I was done at this point so the Army side of the house will be missing until further notice.
