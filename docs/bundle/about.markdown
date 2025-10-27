@@ -15,7 +15,7 @@ I met my wonderful wife in 2018 while we were both stationed in Guam. She’s in
 
 <p align="center">
   <video width="50%" controls>
-    <source src="/assets/video/airforce.mp4" type="video/mp4">
+    <source src="/assets/Video/airforce.mp4" type="video/mp4">
   </video>
 </p>
 
